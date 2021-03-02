@@ -16,5 +16,5 @@ It reads a list of “**projectMembers**” from a text file ("*members.txt*"") 
 * **a basically useless program ;)**
 ## Future Features
 * add project roles
-* add snide comments :(
-)
+* add snide comments :()
+* another line
